@@ -1,0 +1,23 @@
+{
+  "name": "ajsclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarajskysam/ajsclone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarajskysam/ajsclone/issues"
+  },
+  "homepage": "https://github.com/zarajskysam/ajsclone#readme",
+  "dependencies": {
+    "@zarajskysam/ajs": "^1.0.0"
+  }
+}
